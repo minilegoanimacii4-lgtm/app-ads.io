@@ -1,0 +1,2 @@
+# === GOOGLE ADMOB ===
+google.com, pub-8228071292310844, DIRECT, f08c47fec0942fa0
